@@ -1,6 +1,7 @@
 # README #
 
 This README would normally document whatever steps are necessary to get your application up and running.
+This is just a test, so don't bother'
 
 ### What is this repository for? ###
 
