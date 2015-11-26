@@ -7,4 +7,4 @@ Isn't this fun?  Or if not fun, at least pretty painless?
 Now, we add some extra txt
 Yet, more txt
 ==============
-This is the new direction
+These are the changes introduced in the new direction
